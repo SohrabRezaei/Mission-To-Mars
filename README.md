@@ -7,3 +7,5 @@ The purpose of this project was to scrape data from the NASA Science Mars Explor
 * Featured Image
 * Facts about the planet
 * Images of the hemispheres
+
+![image](https://user-images.githubusercontent.com/95439555/179816040-225d076c-03e3-4a4f-b033-eac6bc34075c.png)
